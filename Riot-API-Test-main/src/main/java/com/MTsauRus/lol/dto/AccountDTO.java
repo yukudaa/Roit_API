@@ -14,7 +14,4 @@ public class AccountDTO {
     private String puuid;
     private String gameName;
     private String tagLine;
-
-    private List<String> matchIds;
-
 }
